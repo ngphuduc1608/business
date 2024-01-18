@@ -397,6 +397,12 @@ img{
     margin-left: auto;
     text-align: left;
 }
+.blog-pic-copy {
+    width: 70%;
+    height: 420px;
+    margin-bottom: 40px;
+    background-color: rgb(244, 244, 244);
+}
 .blog-heading-link {
     margin-bottom: 10px;
     font-size: 30px;
